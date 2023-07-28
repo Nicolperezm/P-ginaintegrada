@@ -11,9 +11,8 @@
     
     body{
     
+    background-repeat: repeat;
     background-image: url("qcaja2.jpg");
-    
-    background-repeat: no-repeat;
     background-size: cover;
     
     }
@@ -65,3 +64,353 @@
      
     
     }
+
+    .contenedortecno{
+
+        height: 300px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 300px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("operadoreselectricos.png");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: rgb(0, 0, 0);
+        
+        font-size: 20px;
+        font-family: sans-serif;
+        
+        
+        }
+        .contenedoringles{
+
+            height: 600px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 300px
+            
+             
+            
+            }
+            
+             
+            
+            .imageningles{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:right;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("");
+            
+            }
+            
+            
+            
+            .textoingles{
+            
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+            
+            } 
+            .contenedorsociales{
+
+                height: 2000px;
+                
+                width: 100%;
+                
+                position: absolute;
+               
+                top: 300px
+
+                
+                 
+                
+                } 
+                
+                 
+                
+                .imagensociales{
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                    
+                height: 700px;
+                    
+                width: 700px;
+                    
+                margin-left: 15px;
+                    
+                margin: right 19px;
+                
+                background-image: url("sociales..drawio2.png")
+                
+              
+            
+
+         
+            
+          
+        
+            
+            }
+            
+
+
+                .textosociales{
+
+             
+                
+                text-align: center;
+                
+                color: rgb(0, 0, 0);
+                
+                font-size: 20px;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                
+                
+                } 
+    
+                .contenedortecno{
+
+                    height: 300px;
+                    
+                    width: 100%;
+                    
+                    position: absolute;
+                    
+                    top: 300px;
+                    
+                     
+                    
+                    }
+                    
+                     
+                    
+                    .imagenbiologia{
+                    
+                     
+                    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("fibrosiis.jpg");
+
+
+                    
+                    }
+                    
+                    
+                    
+                    .textobiologia{
+                    
+                    text-align: justify;
+                    
+                    color: rgb(0, 0, 0);
+                    
+                    font-size: 20px;
+                    font-family: sans-serif;
+                    
+                    
+                     
+                }
+                    .contenedorbiologia{
+            
+                        height: 600px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 300px
+                        
+                         
+                        
+                        }
+
+
+                        .imagen2biologia{
+                    
+                        background-repeat: no-repeat;
+                            
+                        float:left;
+                            
+                        height: 1800px;
+                            
+                        width: 240px;
+                            
+                        margin-left: 9px;
+                            
+                        margin-right:9px;
+                            
+                        background-image: url("hemofilia8.jpg");
+        
+                         
+                    }
+
+                
+            
+            
+            
+                .textomatematicas{
+                
+                text-align: justify;
+                
+                color: rgb(0, 0, 0);
+                
+                font-size: 17px;
+                font-family:Verdana, Geneva, Tahoma, sans-serif
+                
+            }
+                .contenedormatematicas{
+
+                    float: inline-start;
+    
+                    height: 700px;
+                    
+                    width: 100%;
+                    
+                    position: absolute;
+                    
+                    top: 300px
+    
+                
+                     
+                    
+                }    
+                .imagenmatematicas{
+                    
+                background-repeat: no-repeat;
+                    
+                float:left;
+                        
+                height: 200px;
+                        
+                width: 260px;
+                        
+                margin-left: 15px;
+                        
+                margin: right 19px;
+                    
+                background-image: url("polinomios.jpg")
+            }   
+
+            
+
+          
+        .imagenmatematicas2{
+            
+        background-repeat: no-repeat;
+            
+        float:left;
+                
+        height: 200px;
+                
+        width: 260px;
+                
+        margin-left: 15px;
+                
+        margin: right 19px;
+            
+        background-image: url("WhatsApp\ Image\ 2023-07-25\ at\ 2.51.14\ PM.jpeg")
+    }   
+
+    .imagenbiologia3{
+                    
+                     
+                    
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 300px;
+        
+        width: 300px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("anemia2.jpg");
+    }
+     
+  
+    
+    .imagensociales2{
+                
+        background-repeat: no-repeat;
+        
+        float:left;
+            
+        height: 600px;
+            
+        width: 600px;
+            
+        margin-left: 15px;
+            
+        margin: right 19px;
+        
+        background-image: url("qcaja7.png")
+    } 
+
+   
