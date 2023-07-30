@@ -65,9 +65,9 @@
     
     }
 
-    .contenedortecno{
+    .contenedortecnologia{
 
-        height: 300px;
+        height: 8000px;
         
         width: 100%;
         
@@ -116,7 +116,7 @@
         }
         .contenedoringles{
 
-            height: 600px;
+            height: 2500px;
             
             width: 100%;
             
@@ -136,17 +136,17 @@
             
             background-repeat: no-repeat;
             
-            float:right;
+            float:left;
             
-            height: 200px;
+            height: 600px;
             
-            width: 260px;
+            width: 600px;
             
-            margin-left: 5px;
+            margin-left: 90px;
             
-            margin-right:5px;
+            margin-right:90px;
             
-            background-image: url("");
+            background-image: url("1.jpeg");
             
             }
             
@@ -195,19 +195,8 @@
                 margin: right 19px;
                 
                 background-image: url("sociales..drawio2.png")
-                
-              
+                }
             
-
-         
-            
-          
-        
-            
-            }
-            
-
-
                 .textosociales{
 
              
@@ -222,22 +211,7 @@
                 
                 } 
     
-                .contenedortecno{
-
-                    height: 300px;
-                    
-                    width: 100%;
-                    
-                    position: absolute;
-                    
-                    top: 300px;
-                    
-                     
-                    
-                    }
-                    
-                     
-                    
+                 
                     .imagenbiologia{
                     
                      
@@ -276,7 +250,7 @@
                 }
                     .contenedorbiologia{
             
-                        height: 600px;
+                        height: 580px;
                         
                         width: 100%;
                         
@@ -309,16 +283,13 @@
                     }
 
                 
-            
-            
-            
-                .textomatematicas{
+              .textomatematicas{
                 
                 text-align: justify;
                 
                 color: rgb(0, 0, 0);
                 
-                font-size: 17px;
+                font-size: 20px;
                 font-family:Verdana, Geneva, Tahoma, sans-serif
                 
             }
@@ -326,7 +297,7 @@
 
                     float: inline-start;
     
-                    height: 700px;
+                    height: 2000px;
                     
                     width: 100%;
                     
@@ -402,15 +373,214 @@
         
         float:left;
             
-        height: 600px;
+        height: 700px;
             
-        width: 600px;
+        width: 700px;
             
-        margin-left: 15px;
+        margin-left: 19px;
             
-        margin: right 19px;
+        margin: right 15px;
         
         background-image: url("qcaja7.png")
     } 
 
    
+.imagenmatematicas2{
+    
+background-repeat: no-repeat;
+    
+float:left;
+        
+height: 200px;
+        
+width: 260px;
+        
+margin-left: 15px;
+        
+margin: right 19px;
+    
+background-image: url("polinomios3.jpg")
+}   
+
+.imagentecno2{
+        
+         
+        
+    background-repeat: no-repeat;
+    
+    float:right;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("simbolo-resistencia-electrica.gif");
+    
+    }
+    
+.imagentecno3{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:right;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("resistencia-electrica.jpg");
+        
+        }
+        .imagentecno4{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:center;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("hpta.jpg");
+            
+                
+                }
+                .imagentecno5{
+        
+         
+        
+                    background-repeat: no-repeat;
+                    
+                    float:right;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("hpta3.jpg");
+                    
+                    }
+                    .imagentecno6{
+        
+         
+        
+                        background-repeat: no-repeat;
+                        
+                        float:right;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("hpta4.jpg");
+                        
+                        }
+                        .imagentecno7{
+        
+         
+        
+                            background-repeat: no-repeat;
+                            
+                            float:right;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("hpta5.jpg");
+                            
+                            }
+                           
+                            .contenedorreligion{
+
+                                height: 5000px;
+                                
+                                width: 100%;
+                                
+                                position: absolute;
+                               
+                                top: 300px
+                
+                                
+                                 
+                                
+                                } 
+                                
+                                 
+                                
+                                .imagenreligion{
+                                
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                    
+                                height: 200px;
+                                    
+                                width: 260px;
+                                    
+                                margin-left: 15px;
+                                    
+                                margin: right 19px;
+                                
+                                background-image: url("hindu.jpg")
+                                }
+                            
+                                .textoreligion{
+                
+                             
+                                
+                                text-align:justify;
+                                
+                                color: rgb(0, 0, 0);
+                                
+                                font-size: 20px;
+                                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                                
+                                
+                                } 
+    
+                                .imagenreligion2{
+                                
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                        
+                                    height: 200px;
+                                        
+                                    width: 260px;
+                                        
+                                    margin-left: 15px;
+                                        
+                                    margin: right 19px;
+                                    
+                                    background-image: url("sip.jpg")
+                                    }
+
