@@ -583,4 +583,188 @@ background-image: url("polinomios3.jpg")
                                     
                                     background-image: url("sip.jpg")
                                     }
+                                    .imagensociales3p{
+        
+         
+        
+                                        background-repeat: no-repeat;
+                                        
+                                        float:left;
+                                        
+                                        height: 1980px;
+                                        
+                                        width: 807px;
+                                        
+                                        margin-left: 5px;
+                                        
+                                        margin-right:5px;
+                                        
+                                        background-image: url("REVOLUCIÓN\ INDUSTRIAL\ \(1\).png");
+                                        
+                                        }
+                                        .contenedorsociales3{
+            
+                                            height: 2000px;
+                                            
+                                            width: 100%;
+                                            
+                                            position: absolute;
+                                            
+                                            top: 300px
+                                            
+                                             
+                                            
+                                            }
+                                            .textosociales2{
+                    
+                                                text-align: justify;
+                                                
+                                                color: rgb(0, 0, 0);
+                                                
+                                                font-size: 30px;
+                                                font-family: sans-serif;
+                                                
+                                                
+                                                 
+                                            }
+                                            .contenedoringles3{
+            
+                                                height: 7000px;
+                                                
+                                                width: 100%;
+                                                
+                                                position: absolute;
+                                                
+                                                top: 300px
 
+                                           
+                                                    
+                                                    }
+                                                    .textoingles3{
+            
+                                                        text-align: justify;
+                                                        
+                                                        color: rgb(0, 0, 0);
+                                                        
+                                                        font-size: 20px;
+                                                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                        
+                                                        
+                                                    } 
+                                                    .contenedormatematicas3{
+            
+                                                        height: 3000px;
+                                                        
+                                                        width: 100%;
+                                                        
+                                                        position: absolute;
+                                                        
+                                                        top: 300px
+        
+                                                   
+                                                            
+                                                            }
+                                                            .imagenmatematicas1p3{
+        
+         
+        
+                                                                background-repeat: no-repeat;
+                                                                
+                                                                float:right;
+                                                                
+                                                                height: 500px;
+                                                                
+                                                                width: 807px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin-right:5px;
+                                                                
+                                                                background-image: url("factorizacion.jpg");
+                                                                
+                                                                }
+                                                            
+                                                            .imagenmatematicas2p3{
+        
+         
+        
+                                                                background-repeat: no-repeat;
+                                                                
+                                                                float:right;
+                                                                
+                                                                height: 500px;
+                                                                
+                                                                width: 807px;
+                                                                
+                                                                margin-left: 5px;
+                                                                
+                                                                margin-right:5px;
+                                                                
+                                                                background-image: url("tronomio.png");
+                                                                
+                                                                }
+                                                                .imagenmatematicas3p3{
+        
+         
+        
+                                                                    background-repeat: no-repeat;
+                                                                    
+                                                                    float:right;
+                                                                    
+                                                                    height: 367px;
+                                                                    
+                                                                    width: 1214px;
+                                                                    
+                                                                    margin-left: 5px;
+                                                                    
+                                                                    margin-right:5px;
+                                                                    
+                                                                    background-image: url("factorizacion\ por\ factor\ comun.png");
+                                                                    
+                                                                    }
+                                                                    .contenedortecnologia3{
+            
+                                                                        height: 1600px;
+                                                                        
+                                                                        width: 100%;
+                                                                        
+                                                                        position: absolute;
+                                                                        
+                                                                        top: 300px
+                        
+                                                                   
+                                                                            
+                                                                            }
+                                                       
+                                                                            .textotecnologia3{
+            
+                                                                                text-align: justify;
+                                                                                
+                                                                                color: rgb(0, 0, 0);
+                                                                                
+                                                                                font-size: 30px;
+                                                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                                                
+                                                                                
+                                                                        } 
+                                                                        .imagentecnologiap3{
+        
+         
+        
+                                                                            background-repeat: no-repeat;
+                                                                            
+                                                                            float:right;
+                                                                            
+                                                                            height: 367px;
+                                                                            
+                                                                            width: 814px;
+                                                                            
+                                                                            margin-left: 5px;
+                                                                            
+                                                                            margin-right:5px;
+                                                                            
+                                                                            background-image: url("tecnologia1p3.jpeg");
+                                                                            
+                                                                            }
+                                                    
+                                                    
